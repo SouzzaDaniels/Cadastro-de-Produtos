@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Projeto de Estágio": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
